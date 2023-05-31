@@ -6,8 +6,7 @@ Harshitha 20201cai0110
 Charitha 20201cai0095
 Hema varshini 20201cai0098
 
-<img src="https://yt3.googleusercontent.com/ytc/AGIKgqMZRi5PpXP8PIa1hh3bo7B5-DNFuij7NY7p5tcTpg=s900-c-k-c0x00ffffff-no-rj" alt="MarineGEO circle logo" style="height: 100px; width:100px;"/>
-<!-- ![image](https://yt3.googleusercontent.com/ytc/AGIKgqMZRi5PpXP8PIa1hh3bo7B5-DNFuij7NY7p5tcTpg=s900-c-k-c0x00ffffff-no-rj) -->
+<img src="https://yt3.googleusercontent.com/ytc/AGIKgqMZRi5PpXP8PIa1hh3bo7B5-DNFuij7NY7p5tcTpg=s900-c-k-c0x00ffffff-no-rj" alt="Quantum girls logo" style="height: 200px; width:200px;"/>
 
 We have Created a Blog on Grover's Algorithm 
 link to our blog is here 👇
