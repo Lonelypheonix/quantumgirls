@@ -23,9 +23,9 @@ our Blog looks like this
 ![image](https://github.com/Lonelypheonix/quantumgirls/assets/55979659/68e83b07-f9a3-47af-987d-61eb46c23de5)
 \
 ![image](https://github.com/Lonelypheonix/quantumgirls/assets/55979659/214dc7bf-7219-46ee-87ae-1c61158fcc98)
-\
+<br>
 ![image](https://github.com/Lonelypheonix/quantumgirls/assets/55979659/d5c1208b-518f-4b0d-8f0f-6a118b1f18b6)
-\\
+\
 
 Our blog looks better in both mobile nd desktop mode!!!!
 
