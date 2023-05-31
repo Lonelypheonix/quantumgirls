@@ -1,18 +1,18 @@
 # Quantumgirls
 Quantumgirls is a team of 4 girls who like to explore into the quantum world
 
-Varsha.K 20201caio142
+Varsha.K 20201CAI0142
 \
-Harshitha 20201cai0110
+Harshitha 20201CAI0110
 \
-Charitha 20201cai0095
+Charitha 20201CAI0095
 \
-Hema varshini 20201cai0098
+Hema varshini 20201CAI0098
 
 <img src="https://yt3.googleusercontent.com/ytc/AGIKgqMZRi5PpXP8PIa1hh3bo7B5-DNFuij7NY7p5tcTpg=s900-c-k-c0x00ffffff-no-rj" alt="Quantum girls logo" style="height: 200px; width:200px;"/>
 
 We have Created a Blog on Grover's Algorithm 
-link to our blog is here 👇
+link to our blog is here 👇/
 https://yicani6059.wixsite.com/quantumgirls
 
 our Blog looks like this
@@ -23,11 +23,11 @@ our Blog looks like this
 ![image](https://github.com/Lonelypheonix/quantumgirls/assets/55979659/68e83b07-f9a3-47af-987d-61eb46c23de5)
 \
 ![image](https://github.com/Lonelypheonix/quantumgirls/assets/55979659/214dc7bf-7219-46ee-87ae-1c61158fcc98)
-<br>
+\
 ![image](https://github.com/Lonelypheonix/quantumgirls/assets/55979659/d5c1208b-518f-4b0d-8f0f-6a118b1f18b6)
 \
 
-Our blog looks better in both mobile nd desktop mode!!!!
+Our blog looks better in both mobile and desktop mode!!!!
 
 Have fun reading about the world of Quantum
 
